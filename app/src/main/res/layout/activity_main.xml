@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/Shuffle_first"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="360dp"
+        android:background="@drawable/ic_shuffle">
+    </Button>
+
+    <ListView
+        android:id="@+id/listViewsong"
+        android:divider="@color/white"
+        android:dividerHeight="10.0sp"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+</RelativeLayout>
