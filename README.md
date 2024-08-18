@@ -46,6 +46,6 @@ visualizer: Displays audio visualization.
 A fragment that serves as the initial screen of the app, allowing navigation to the second fragment.
 
  
-This app also contains a cool visualization while playing the songs;  
+## This app also contains a cool visualization while playing the songs;  
  
  ![image](https://github.com/amax33/MusicPlayer/assets/77959684/19beacb8-fd46-4c2a-959d-beba9a6a59ae)
